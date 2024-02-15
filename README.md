@@ -14,3 +14,9 @@ for GUI'ing yt-dlp and practicing PyQt5.
 
 Nothing works.
 
+## 実行環境 Dev. env.
+
+Windows11/Powershell/VScode
+
+```bash
+pip install yt-dlp
